@@ -1,7 +1,0 @@
-pandas
-pyparsing
-tabulate
-numpy
-setuptools
-pytest
-sqlparse
